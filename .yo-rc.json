@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Fetch Me If You Can – The new JavaScript Fetch API",
+    "packageVersion": "1.0.0",
+    "revealTheme": "solarized",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "simono",
+    "githubRepository": "fetch-demo"
+  }
+}
