@@ -1,6 +1,7 @@
 # Fetch Me If You Can
+## The new JavaScript Fetch API
 
-The new JavaScript Fetch API
+Simon Olofsson &bull; [@solofs](https://twitter.com/solofs)
 
 ---
 
